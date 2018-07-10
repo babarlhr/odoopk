@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<template id="mystyle" name="My style" inherit_id="website.assets_frontend" active="True">
+    <xpath expr="." position="inside">
+        <link href="/theme_odoo/static/less/style.less" rel="stylesheet" type="text/less"/>
+		<script type="text/javascript" src="/theme_odoo/static/js/custom.js"/>
+    </xpath>
+</template>
+</odoo>

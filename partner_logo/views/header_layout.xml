@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="main_header_layout_id" inherit_id="website.layout" name="Theme Header">
+        <xpath expr="//div[@class='navbar-header']" position="after">
+            <a href="/" class="navbar-brand logo" style='float:right'>
+                <span t-field="res_company.partner_logo" t-options="{'widget': 'image'}" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name" />
+            </a>
+        </xpath>
+    </template>
+</odoo>
