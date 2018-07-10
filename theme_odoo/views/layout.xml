@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+
+    <template id="custom_header" inherit_id="website.layout" name="Custom Header">
+
+
+
+        <!-- Assign an id  -->
+
+        <xpath expr="//div[@id='wrapwrap']/header" position="attributes">
+
+            <attribute name="id">my_header</attribute>
+
+            <attribute name="class">o_main_header</attribute>
+
+        </xpath>
+
+
+
+        <!-- Add an element after the top menu  -->
+
+        <!-- <xpath expr="//ul[@id='o_primary_nav']" position="after">
+
+            <div class="o_header_buttons">
+
+                <a href="/shop/cart" class="hidden" style="position: relative; overflow: hidden;">
+
+                    <i class="fa fa-shopping-cart"></i>
+
+                    <sup class="my_cart_quantity label label-primary"></sup>
+
+                </a>
+
+                <div>
+
+                    <a t-ignore="true" t-if="not user_id._is_public()" t-attf-href="/web/session/logout?redirect=/" role="menuitem" style="position: relative; overflow: hidden;">Logout</a>
+
+                    <a t-if="user_id._is_public()" href="/web/login" style="position: relative; overflow: hidden;">Sign in</a>
+
+                </div>
+
+                <a  t-if="user_id._is_public()" class="btn btn-primary" href="/trial" style="position: relative; overflow: hidden;">Try it free</a>
+
+            </div>
+
+        </xpath> -->
+
+        <!-- <xpath expr="//div[@class='navbar-header']/a/span" position="replace">
+
+            <img class="img logo-desktop" src="/web/image/439/odoo-logo-white.png" />
+
+            <img class="img logo-mobile" src="/web/image/438/odoo-logo-grey.png" />
+
+        </xpath> -->
+
+
+
+    </template>
+
+</odoo>
+
+

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<template id="snippet_themebanner" name="Themebanner snippet">
+<section class="o_gradient_delta js_top_banner" >
+          <div class="container">
+            <div class="row o_v_align_col_sm" >
+              <div class="col-xs-12 col-sm-7 mt24 mb24">
+                <h1 class="mt0 text-white">
+                    <span class="display-3 fw_extralight">SHAPING THE FUTURE</span><br/>
+                    <b class="display-1">OF WORK</b>
+                </h1>
+                <h4 class="mb48 text-white">Beautiful all-in-one management software.<br/>Proudly made in India.</h4>
+                <a href="/trial" class="btn btn-primary btn-lg" >START FOR FREE</a>      
+        <span class="o_schedule_demo ">
+
+                <a href="https://www.odoo.com/r/meeting-india" target="_blank" class="btn btn-default btn-lg o_btn_inverse" style="position: relative; overflow: hidden;">Schedule a personalized demo</a>
+        </span>
+    
+              </div>
+              <div class="hidden-xs col-sm-5 mt48">
+                <img src="//odoocdn.com/openerp_website/static/src/img/2016/home/india/banner.png" class="img img-responsive" alt=""/>
+              </div>
+            </div>
+          </div>
+        </section>
+</template>
+<template id="snippet_themeapps" name="Themeapps snippet">
+ <section class="o_apps_list o_overflow_hidden bg-white mt0">
+          <h2 class="mb4 text-center mt32">Redefine <b>Scalability</b>.</h2>
+          <h5 class="mb32 mt0 text-center text-gray-dark">One need, one app. Integration has never been so smooth.</h5>
+
+          <div class="o_apps_list_wrap">
+              <div class="o_apps_list_row">
+                  <div class="o_apps_list_col">
+                      <div class="o_apps_list_row o_apps_list_pseudo o_animate o_animate_in_children">
+                          <span class="o_app_entry bg-gray-lighter"></span>
+                          <span class="o_app_entry bg-gray-light"></span>
+                      </div>
+                      <div class="o_apps_list_row o_apps_list_pseudo o_animate o_animate_in_children">
+                          <span class="o_app_entry bg-gray-light mr48"></span>
+                      </div>
+                  </div>
+
+                  <div class="o_apps_list_col o_apps_list_container">
+                      <div class="o_apps_list_row">
+                          <div class="o_apps_list_col">
+                              <b class="o_apps_list_col_title">BOOST YOUR SALES</b>
+                              <div class="o_apps_list_row o_animate o_animate_in_children">
+                                  
+    <a class="o_app_entry " href="/page/crm">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/crm.jpg" alt="CRM"/>
+        <b class="text-gray-darker">CRM</b>
+    </a>
+
+                                  
+    <a class="o_app_entry " href="/page/point-of-sale">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/point_of_sale.jpg" alt="POS"/>
+        <b class="text-gray-darker">POS</b>
+    </a>
+
+                                  
+    <a class="o_app_entry " href="/page/sales">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/sale.jpg" alt="Sales"/>
+        <b class="text-gray-darker">Sales</b>
+    </a>
+
+                              </div>
+                          </div>
+                          <div class="o_apps_list_col">
+                              <b class="o_apps_list_col_title">STREAMLINE YOUR OPERATIONS</b>
+                              <div class="o_apps_list_row o_animate o_animate_in_children">
+                                  
+    <a class="o_app_entry " href="/page/project-management">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/project.jpg" alt="Project"/>
+        <b class="text-gray-darker">Project</b>
+    </a>
+
+                                  
+    <a class="o_app_entry " href="/page/warehouse">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/stock.jpg" alt="Inventory"/>
+        <b class="text-gray-darker">Inventory</b>
+    </a>
+
+                                  
+    <a class="o_app_entry " href="/page/mrp-cloud-software">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/mrp.jpg" alt="MRP"/>
+        <b class="text-gray-darker">MRP</b>
+    </a>
+
+                                  
+    <a class="o_app_entry " href="/page/timesheet-mobile-app">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/hr_timesheet_sheet.jpg" alt="Timesheets"/>
+        <b class="text-gray-darker">Timesheets</b>
+    </a>
+
+                                  
+    <a class="o_app_entry " href="/page/helpdesk">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/helpdesk.jpg" alt="Helpdesk"/>
+        <b class="text-gray-darker">Helpdesk</b>
+    </a>
+
+                              </div>
+                          </div>
+                      </div>
+                      <div class="o_apps_list_row">
+                          <div class="o_apps_list_col">
+                              <b class="o_apps_list_col_title">BUILD STUNNING WEBSITES</b>
+                              <div class="o_apps_list_row o_animate o_animate_in_children">
+                                  
+    <a class="o_app_entry " href="/page/website-builder">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/website.jpg" alt="Website Builder"/>
+        <b class="text-gray-darker">Website Builder</b>
+    </a>
+
+                                  
+    <a class="o_app_entry " href="/page/open-source-ecommerce">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/website_sale.jpg" alt="eCommerce"/>
+        <b class="text-gray-darker">eCommerce</b>
+    </a>
+
+                              </div>
+                          </div>
+                          <div class="o_apps_list_col">
+                              <b class="o_apps_list_col_title">MANAGE YOUR FINANCE</b>
+                              <div class="o_apps_list_row o_animate o_animate_in_children">
+                                  
+    <a class="o_app_entry " href="/page/billing">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/account_accountant.jpg" alt="Invoicing"/>
+        <b class="text-gray-darker">Invoicing</b>
+    </a>
+
+                                  
+    <a class="o_app_entry " href="/page/accounting">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/account.jpg" alt="Accounting"/>
+        <b class="text-gray-darker">Accounting</b>
+    </a>
+
+                              </div>
+                          </div>
+                          <div class="o_apps_list_col">
+                              <b class="o_apps_list_col_title">GROW YOUR MARKETING REACH</b>
+                              <div class="o_apps_list_row o_animate o_animate_in_children">
+                                  
+    <a class="o_app_entry " href="/page/email-marketing">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/mass_mailing.jpg" alt="Mass Mailing"/>
+        <b class="text-gray-darker">Mass Mailing</b>
+    </a>
+
+                                  
+    <a class="o_app_entry " href="/page/marketing-automation">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/marketing_automation.jpg" alt="Marketing Automation"/>
+        <b class="text-gray-darker">Marketing Automation</b>
+    </a>
+
+                              </div>
+                          </div>
+                          <div class="o_apps_list_col">
+                              <b class="o_apps_list_col_title">CUSTOMIZE</b>
+                              <div class="o_apps_list_row o_animate o_animate_in_children">
+                                  
+    <a class="o_app_entry " href="/page/studio">
+        <img class="img-responsive deep-1" src="//odoocdn.com/openerp_website/static/src/img/2016/apps/jpg_100/studio.jpg" alt="Odoo Studio"/>
+        <b class="text-gray-darker">Odoo Studio</b>
+    </a>
+
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="o_apps_list_col">
+                      <div class="o_apps_list_row o_apps_list_pseudo o_animate o_animate_in_children">
+                          <span class="o_app_entry bg-gray-light ml48"></span>
+                      </div>
+                      <div class="o_apps_list_row o_apps_list_pseudo o_animate o_animate_in_children">
+                          <span class="o_app_entry bg-gray-light"></span>
+                          <span class="o_app_entry bg-gray-lighter"></span>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="text-center mb32">
+              <a href="/page/all-apps" class="btn btn-default">… and many more</a>
+          </div>
+      </section>
+</template>
+<template id="snippet_themetestimonial" name="Themetestimonial snippet">
+<section class="bg-white section_testimonial">
+          <div class="o_stripe o_skew_sm bg-gray-lighter"></div>
+          <div class="container-fluid">
+              <div class="row o_v_align_col">
+                  <div class="col-sm-6">
+                      <img class="img-responsive hidden-xs mt64" style="margin-left: -16px" src="//odoocdn.com/openerp_website/static/src/img/2017/home/screen_fly.png" alt="Odoo"/>
+                  </div>
+                  <div class="col-sm-6 mb64 o_no_more_pain">
+                      <h3 class="text-center-xs">No more <b>painful integrations</b>.</h3>
+                      <p class="mb16">With 10.000+ apps in, Odoo covers all your business needs in a one-stop solution: no more interfaces between different software required. Odoo apps are perfectly integrated to each others, allowing you to fully automate your business processes.</p>
+                      
+        <div class="s_testimonial text-heading font-heading fw_medium">
+            <div class="thumb">
+                <img src="//odoocdn.com/openerp_website/static/src/img/2016/testimonials/marc_peeters_sodexo.png" alt="" class="img-responsive"/>
+            </div>
+            <blockquote>
+                <p class="mb4">“We replaced 14 different applications and increased revenues by 10% overnight.”</p>
+                <p><small>John Smith, Sales Manager</small></p>
+                <img src="//odoocdn.com/openerp_website/static/src/img/2016/sponsors/sodexo.png" alt=""/>
+            </blockquote>
+        </div>
+
+                  </div>
+              </div>
+          </div>
+      </section>
+</template>
+<template id="snippet_themeuniquevalue" name="Themeuniquevalue snippet">
+  <section class="o_bg_no-repeat bg-white o_overflow_hidden o_unique_value">
+          <div class="container mt92 mb92">
+              <div class="row o_v_align_col">
+                  <div class="col-sm-6 text-right">
+                      <h3 class="mt0 mb4 text-center-xs">A <b>unique</b> value proposition</h3>
+                      <h5 class="mt0 mb32 text-gray-dark text-center-xs">Everything you need within a top notch user experience.</h5>
+                      <p class="text-left-xs">The <strong>open source model of Odoo</strong> has allowed us to leverage thousands of developers and business experts to build hundreds of apps in just a few years.</p>
+                      <p class="text-left-xs">With strong technical foundations, Odoo's framework is unique. It provides <strong>top notch usability that scales across all apps</strong>.</p>
+                      <p class="text-left-xs">Usability improvements made on Odoo will automatically apply to all of our fully integrated apps.</p>
+                      <p class="text-left-xs">That way, Odoo evolves much faster than any other solution.</p>
+                  </div>
+                  <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-lg-5 col-lg-offset-1">
+                      <img width="504" id="o_position_chart" class="img img-responsive" src="//odoocdn.com/openerp_website/static/src/img/2017/home/position_chart.svg" alt="Odoo Comparison - User-friendliness and business scope vs. Oracle, SAP, Microsoft Dynamics, NetSuite, etc."/>
+                  </div>
+              </div>
+          </div>
+      </section>
+</template>
+<template id="snippet_themesponsors" name="Themesponsors snippet">
+
+        <section class="s_sponsors text-center">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-3 col-sm-offset-1 col-md-2 col-md-offset-1 hidden-xs text-uppercase s_intro">
+                <div class="text-right pull-left">Loved by 1000+<br/>Indian companies</div>
+              </div>
+              <div class="col-sm-8 col-md-9 s_sponsors_list">
+                <div style="background-image: url(//odoocdn.com/openerp_website/static/src/img/2016/home/india/sponsors.gif); width: 66px; background-position: 0% 0;"></div>
+                <div style="background-image: url(//odoocdn.com/openerp_website/static/src/img/2016/home/india/sponsors.gif); width: 180px; background-position: 13.8% 0;"></div>
+                <div style="background-image: url(//odoocdn.com/openerp_website/static/src/img/2016/home/india/sponsors.gif); width: 45px; background-position: 40.1% 0;"></div>
+                <div style="background-image: url(//odoocdn.com/openerp_website/static/src/img/2016/home/india/sponsors.gif); width: 118px; background-position: 53.75% 0;"></div>
+                <div style="background-image: url(//odoocdn.com/openerp_website/static/src/img/2016/home/india/sponsors.gif); width: 53px; background-position: 67.5% 0;"></div>
+                <div style="background-image: url(//odoocdn.com/openerp_website/static/src/img/2016/home/india/sponsors.gif); width: 57px; background-position: 77% 0;"></div>
+                <div style="background-image: url(//odoocdn.com/openerp_website/static/src/img/2016/home/india/sponsors.gif); width: 138px; background-position: 100% 0;"></div>
+              </div>
+            </div>
+          </div>
+        </section>
+</template>
+<template id="snippet_themeusers" name="Themeusers snippet">
+  <section class="s_users_mosaic mt48">
+       <div id="mosaic"><span style="background-position: 0% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 5.88235% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 11.7647% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 17.6471% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 23.5294% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 29.4118% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 35.2941% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 41.1765% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 47.0588% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 52.9412% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 58.8235% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 64.7059% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 70.5882% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 76.4706% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 82.3529% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 88.2353% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 94.1176% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 100% 0%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 0% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 5.88235% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 11.7647% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 17.6471% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 23.5294% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 29.4118% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 35.2941% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 41.1765% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 47.0588% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 52.9412% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 58.8235% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 64.7059% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 70.5882% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 76.4706% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 82.3529% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 88.2353% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 94.1176% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 100% 14.2857%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 0% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 5.88235% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 11.7647% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 17.6471% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 23.5294% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 29.4118% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 35.2941% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 41.1765% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 47.0588% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 52.9412% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 58.8235% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 64.7059% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 70.5882% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 76.4706% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 82.3529% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 88.2353% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 94.1176% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 100% 28.5714%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 0% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 5.88235% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 11.7647% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 17.6471% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 23.5294% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 29.4118% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 35.2941% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 41.1765% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 47.0588% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 52.9412% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 58.8235% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 64.7059% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 70.5882% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 76.4706% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 82.3529% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 88.2353% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 94.1176% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 100% 42.8571%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 0% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 5.88235% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 11.7647% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 17.6471% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 23.5294% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 29.4118% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 35.2941% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 41.1765% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 47.0588% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 52.9412% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 58.8235% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 64.7059% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 70.5882% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 76.4706% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 82.3529% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 88.2353% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 94.1176% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 100% 57.1429%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 0% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 5.88235% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 11.7647% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 17.6471% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 23.5294% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 29.4118% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 35.2941% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 41.1765% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 47.0588% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 52.9412% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 58.8235% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 64.7059% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 70.5882% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 76.4706% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 82.3529% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 88.2353% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 94.1176% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 100% 71.4286%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 0% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 5.88235% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 11.7647% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 17.6471% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 23.5294% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 29.4118% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 35.2941% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 41.1765% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 47.0588% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 52.9412% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 58.8235% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 64.7059% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 70.5882% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 76.4706% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 82.3529% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 88.2353% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 94.1176% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 100% 85.7143%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 0% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 5.88235% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 11.7647% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 17.6471% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 23.5294% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 29.4118% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 35.2941% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 41.1765% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 47.0588% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 52.9412% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 58.8235% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 64.7059% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 70.5882% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 76.4706% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 82.3529% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 88.2353% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span><span style="background-position: 94.1176% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class="o_fade"></span><span style="background-position: 100% 100%; background-image: url(&quot;//odoocdn.com/openerp_website/static/src/img/2016/mosaic_1.jpg&quot;);" class=""></span></div>
+        <div class="box">
+          <div class="h1 title">
+		  <div class="inner-title-mosaic"><span class="number">3</span>Million users
+                        <br/><span class="sub">grow their business with Odoo</span></div></div>
+        </div>
+      </section>
+</template>
+<template id="snippet_themegrowth" name="Themegrowth snippet">
+<section class="o_gradient o_overflow_hidden">
+          <div class="container mt32 mb16">
+              <div class="row o_v_align_col_sm">
+                  <div class="col-sm-6 text-right text-center-xs">
+                      <h3 class="text-white mb0 mt16"><b>Unleash</b> your <b>growth potential</b></h3>
+                      <p class="text-white mb16"><small>No credit card required - Instant access</small></p>
+                  </div>
+                  <div class="col-sm-6 text-center-xs">
+                      <a href="/trial" class="mt32 mb32 btn btn-lg btn-primary o_btn_cta">Start Now - It's Free</a>
+                  </div>
+              </div>
+          </div>
+      </section>
+</template>
+<template id="place_into_bar" inherit_id="website.snippets" name="Place into bar">
+  <xpath expr="//div[@id='snippet_content']/div[@class='o_panel_body']" position="inside">
+    <t t-snippet="theme_odoo.snippet_themebanner"
+       t-thumbnail="/web/image/721"/>
+  </xpath>
+    <xpath expr="//div[@id='snippet_content']/div[@class='o_panel_body']" position="inside">
+    <t t-snippet="theme_odoo.snippet_themeapps"
+       t-thumbnail="/web/image/721"/>
+  </xpath>
+  <xpath expr="//div[@id='snippet_content']/div[@class='o_panel_body']" position="inside">
+    <t t-snippet="theme_odoo.snippet_themetestimonial"
+       t-thumbnail="/web/image/721"/>
+  </xpath>
+  <xpath expr="//div[@id='snippet_content']/div[@class='o_panel_body']" position="inside">
+    <t t-snippet="theme_odoo.snippet_themeuniquevalue"
+       t-thumbnail="/web/image/721"/>
+  </xpath>
+    <xpath expr="//div[@id='snippet_content']/div[@class='o_panel_body']" position="inside">
+    <t t-snippet="theme_odoo.snippet_themesponsors"
+       t-thumbnail="/web/image/721"/>
+  </xpath>
+    <xpath expr="//div[@id='snippet_content']/div[@class='o_panel_body']" position="inside">
+    <t t-snippet="theme_odoo.snippet_themeusers"
+       t-thumbnail="/web/image/721"/>
+  </xpath>
+    <xpath expr="//div[@id='snippet_content']/div[@class='o_panel_body']" position="inside">
+    <t t-snippet="theme_odoo.snippet_themegrowth"
+       t-thumbnail="/web/image/721"/>
+  </xpath>  
+</template>
+
+
+</odoo>
